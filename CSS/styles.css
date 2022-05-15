@@ -1,0 +1,11 @@
+#1{
+	background-image: url("./assets/sefactory image 0.jpg");
+}
+
+p{
+	font-size:25px;
+}
+
+.column{
+	flex-direction:column;
+}
