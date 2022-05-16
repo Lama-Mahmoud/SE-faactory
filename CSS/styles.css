@@ -16,4 +16,7 @@ p{
 		flex-wrap:wrap;
 		flex-direction:row;
 		}
+	.size{
+		flex:50%;
+	}
 }
