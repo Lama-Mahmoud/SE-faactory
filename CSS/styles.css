@@ -10,6 +10,10 @@ p{
 	flex-direction:column;
 }
 
-body{
-	font-family:Roboto;
+@media screen and(min-width:580px){
+	.flex{
+		display: flex;
+		flex-wrap:wrap;
+		flex-direction:row;
+		}
 }
